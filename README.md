@@ -18,7 +18,7 @@ This project is a starter kit for fast and easy development of Tumblr theme.
 git clone git@github.com:ish1r0k1/tumblr-theme-developer-starter.git your-theme-name
 ```
 
-goto the starter directory and install the packages:
+Goto the starter directory and install the packages:
 
 ```
 npm install
