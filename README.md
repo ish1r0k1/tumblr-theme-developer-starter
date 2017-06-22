@@ -2,7 +2,7 @@
 This project is a starter kit for fast and easy development of Tumblr theme.
 
 # Features
-* Managin workflow with [Gulp](http://gulpjs.com/)
+* Managing workflow with [Gulp](http://gulpjs.com/)
 * Live reload usgin [Browsersync](https://www.browsersync.io/)
 * Supports `es2015` notation javascript by [Babel](https://babeljs.io/)
 * Comfortable styling with [Sass](http://sass-lang.com/)
