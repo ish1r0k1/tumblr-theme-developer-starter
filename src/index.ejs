@@ -1,0 +1,13 @@
+<%- include('./partials/header') %>
+  {block:Posts}
+  <article class="{PostType}">
+    {block:Text}
+    {block:Title}
+    <a href="{Permalink}">
+      <h2>{Title}</h2>
+    </a>
+    {/block:Title}
+    {Body}
+    {/block:Text}
+  </article>
+<%- include('./partials/footer') %>
